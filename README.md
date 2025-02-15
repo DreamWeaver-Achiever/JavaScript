@@ -7,8 +7,7 @@
 <h4>-ECMA Script</h4>
 <h4>-JS 2024</h4>
 <h4>-Operators and conditionals</h4>
-<h4>Short Circuting</h4>
-<h4>Loops in JS</h4>
-<h4>Template Strings</h4>
-<h4>Plain and Arrow functions</h4>
-
+<h4>-Short Circuting</h4>
+<h4>-Loops in JS</h4>
+<h4>-Template Strings</h4>
+<h4>-Plain and Arrow functions</h4>
